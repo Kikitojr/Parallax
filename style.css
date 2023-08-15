@@ -34,19 +34,19 @@ p{
     background-attachment: fixed; /*!DEIXA O BACKGROUD FIXO (MT IMPORANTENTE PARA O PARALLAX)*/
 }
 .caixa1{
-    background-image: url(imgs/imagem1.jpg);
+    background-image: url(imgs/itaquera-corinthians.jpg);
 }
 
 .caixa2{
-    background-image: url(imgs/imagem2.jpg);
+    background-image: url(imgs/itaquera2.jpg);
 }
 
 .caixa3{
-    background-image: url(imgs/imagem3.jpg);
+    background-image: url(imgs/itaquera3.jpg);
 }
 
 .caixa4{
-    background-image: url(imgs/imagem4.jpg);
+    background-image: url(imgs/itaquera\ 3.jpg)
 }
 
 .conteudo-titulo{
